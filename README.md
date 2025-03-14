@@ -7,12 +7,12 @@
 
 ## **Introdução**  
 
-Este projeto faz parte da minha rotina de estudos. A intesão desse respositório é demonstrar uma parcela do que estou aprendendo e, mais importante de tudo, buscar opiniões, criticas e sugestões de melhorias nos meus códigos, estruturas e métodos de desenvolvimento. 
+Este projeto faz parte da minha rotina de estudos. O objetivo deste repositório é demonstrar uma parte do que estou aprendendo e, mais importante ainda, buscar opiniões, críticas e sugestões de melhorias nos meus códigos, estruturas e métodos de desenvolvimento.
 
 Motivação:  
 1. Aprimoramento de habilidades como: estrutura de dados, algoritmos e versionamento de código.  
 2. Conhecer novas tecnologias, frameworks, classes, métodos e boas práticas em projetos de dados.
-3. Construir e aprimorar um pensamento analitico e tecnico que proporcione insights e soluções simples e funcionais.
+3. Desenvolver um pensamento analítico e técnico que gere insights e soluções simples e funcionais.
 
 ## **Overview do Projeto**  
 
